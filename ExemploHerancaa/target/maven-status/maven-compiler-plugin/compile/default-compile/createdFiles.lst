@@ -1,0 +1,4 @@
+principal\Principal.class
+model\FiguraGeometrica.class
+model\Circulo.class
+model\Triangulo.class
