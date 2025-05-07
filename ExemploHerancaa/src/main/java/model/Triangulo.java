@@ -3,7 +3,7 @@ package model;
 
 /**
  *
- * @author 10725115943
+ * @author 10724238393
  */
 import javax.swing.*;
 public  class Triangulo extends FiguraGeometrica {
